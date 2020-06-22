@@ -26,7 +26,7 @@ By leveraging the developed method and the bootstrapping technique, we then iden
 A schematic depiction of the implemented neural network architecture for inferring nonlinear Granger causality &mdash; the *Granger causal multilayer perceptron* (GC-MLP):
 
 <p align="center">
-  <img src="https://github.com/i6092467/NNGC-SLIMMBA/tree/master/images/Causal_MLP.PNG" width="514">
+  <img src="https://github.com/i6092467/NNGC-SLIMMBA/blob/master/images/Causal_MLP.png" width="514">
 </p>
 
 ### References
