@@ -49,8 +49,11 @@ To run the code, the followinng requirements have to be fulfilled.
 ### Software requirements:
 
 All necessary libraries are included into the conda environment provided by `environment.yml`. To build it, run:
+
 `conda env create -f environment.yml`
+
 Then activate the environment:
+
 `conda activate NNGC-SLIMMBA`
 
 ## Usage
