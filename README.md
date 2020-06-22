@@ -19,7 +19,7 @@ The goal is then to identify metabolites that are associated with sleep stages, 
 
 The relationship between human sleep and metabolism has not yet been studied systematically and well understood. We investigated the association between sleep stages and exhaled breath mass spectrometry in the framework of Granger causality. 
 
-We used a scalable neural network approach for inferring nonlinear Granger causality between continuously- and categorically-valued variables. We tested this technique on a wide range of simulated datasets with differing degrees of nonlinearity and demonstrate that, in many settings, it outperforms the conventional linear vector autoregressive model. The datasets, on which validation is performed, include the Lorenz 96 system and rich and realistic simulations of fMRI time series. 
+We used a scalable neural network approach for inferring nonlinear Granger causality between continuously- and categorically-valued variables. We tested this technique on a wide range of simulated datasets with differing degrees of nonlinearity and demonstrate that, in many settings, it outperforms the conventional linear vector autoregressive model (VAR). The datasets, on which validation was performed, include (but are not limited to) the Lorenz 96 system and rich and realistic simulations of fMRI time series. 
 
 By leveraging the developed method and the bootstrapping technique, we then identified Granger causes and effects of sleep phase transitions from breathomics data.
 
