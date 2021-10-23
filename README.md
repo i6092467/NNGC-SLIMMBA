@@ -29,6 +29,8 @@ A schematic depiction of the implemented neural network architecture for inferri
   <img src="https://github.com/i6092467/NNGC-SLIMMBA/blob/master/images/Causal_MLP.png" width="514">
 </p>
 
+Further details, findings, and results can be found in the [poster]().
+
 ### References
 
 Below we provide a few references helpful for understanding the methodology:
@@ -80,4 +82,4 @@ The main analysis of causal relationships between ion intensity and sleep stage 
 
 Folder `Experiments` contains scripts for running experiments on permuted and synthetic data and cross-validation.
 
-For a detailed description of function arguments, consult the documentation provided in the code.
+For a detailed description of function arguments, consult the documentation provided in the code. The dataset is available [here](https://www.research-collection.ethz.ch/handle/20.500.11850/422459).
