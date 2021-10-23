@@ -82,4 +82,4 @@ The main analysis of causal relationships between ion intensity and sleep stage 
 
 Folder `Experiments` contains scripts for running experiments on permuted and synthetic data and cross-validation.
 
-For a detailed description of function arguments, consult the documentation provided in the code. The dataset is available [here](https://www.research-collection.ethz.ch/handle/20.500.11850/422459).
+For a detailed description of function arguments, consult the documentation provided in the code. The dataset is publicly available [here](https://www.research-collection.ethz.ch/handle/20.500.11850/422459).
