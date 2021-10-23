@@ -29,7 +29,7 @@ A schematic depiction of the implemented neural network architecture for inferri
   <img src="https://github.com/i6092467/NNGC-SLIMMBA/blob/master/images/Causal_MLP.png" width="514">
 </p>
 
-Further details, findings, and results can be found in the [poster]().
+Further details, findings, and results can be found in the [poster](https://github.com/i6092467/NNGC-SLIMMBA/blob/master/images/GC_MS.png).
 
 ### References
 
